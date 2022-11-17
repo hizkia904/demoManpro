@@ -1,2 +1,3 @@
 ini ditambahkan di lokal
 ini ditambahkan di remote
+ini ditambahkan dari lokal lagi
